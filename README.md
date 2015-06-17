@@ -4,9 +4,9 @@
 
 Odds of winning with pocket hands in an 8 handed game, top right is suited, bottom left unsuited. It is always a starting point in a tournament, but follow your gut instincts and watch your opponents. 
 
-If players are loose a lower pocket pair such as fives and sixes become stronger against their range. Conversely if players are tight then stick to stronger hands and don't worry about being patient.
+If players are loose a lower pocket pair such as fives and sixes become stronger against their range. Conversely if players are tight then stick to stronger hands and don't worry and be patient.
 
-The less opponents, i.e. in later stages of a tournament hands become stronger and stronger, effectively in heads up many hands are playable. From experience aggressiveness is key in heads up poker.
+The less opponents, i.e. in later stages of a tournament, hands become stronger and stronger, effectively in heads up many hands are playable. From experience aggressiveness is key in heads up poker.
 
 
 ![Poker Hands Player 8 handed](/PokerHands.png "Odds of winning with pocket hands in an 8 handed game")
